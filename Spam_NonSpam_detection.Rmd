@@ -1,7 +1,6 @@
 ---
 title: "SPAMBASE Detection"
 author: "Bharani"
-date: "10/28/2019"
 output:
   pdf_document: default
   html_document: default
